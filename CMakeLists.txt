@@ -9,3 +9,4 @@ add_executable(homework6 1001227439_wxt_homework6.c)
 
 target_link_libraries(homework6 student)
 
+
