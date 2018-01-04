@@ -6,9 +6,13 @@ This program creates a linked list that stores student names, ID, and age in eac
 
 Clone this repository on your local machine and type in the following commands:
 '''
+
 cmake .
+
 make
+
 ./Roaster
+
 '''
 
 ### Prerequisites
