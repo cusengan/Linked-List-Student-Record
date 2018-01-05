@@ -13,6 +13,17 @@ make
 
 ./Roaster
 ```
+If you wish to load a file into the roaster, your file must have this format:
+
+First name Last name ID Age
+
+An example file would look like this:
+
+```
+John Smith 13121 18
+James Brown 23311 19
+
+```
 
 ### Prerequisites
 
